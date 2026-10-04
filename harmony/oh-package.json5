@@ -1,0 +1,9 @@
+{
+  "modelVersion": "6.0.0",
+  "name": "redreader-harmony",
+  "version": "0.1.0",
+  "description": "Unofficial native HarmonyOS port prototype of RedReader",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {},
+  "devDependencies": {}
+}
