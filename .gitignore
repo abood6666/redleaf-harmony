@@ -1,0 +1,13 @@
+upstream/
+**/oh_modules/
+**/node_modules/
+**/.hvigor/
+**/.idea/
+**/build/
+**/local.properties
+**/build-profile.local.json5
+**/*.p12
+**/*.cer
+**/*.p7b
+.test-build/
+artifacts/
