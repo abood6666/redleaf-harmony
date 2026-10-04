@@ -1,6 +1,6 @@
-# RedReader for HarmonyOS — native port prototype
+# RedLeaf for HarmonyOS — native port prototype
 
-An independent **ArkTS + ArkUI** port project for HarmonyOS 5/6, using [RedReader](https://github.com/QuantumBadger/RedReader) as the reference. This is an early native implementation, not an official upstream release or a finished Reddit client.
+RedLeaf is an independent **ArkTS + ArkUI** port project for HarmonyOS 5/6, using [RedReader](https://github.com/QuantumBadger/RedReader) as the reference. This is an early native implementation, not an official upstream release or a finished Reddit client.
 
 ## What works in the first slice
 
